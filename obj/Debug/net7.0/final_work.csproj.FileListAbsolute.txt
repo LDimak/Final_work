@@ -1,0 +1,15 @@
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\bin\Debug\net7.0\final_work.exe
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\bin\Debug\net7.0\final_work.deps.json
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\bin\Debug\net7.0\final_work.runtimeconfig.json
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\bin\Debug\net7.0\final_work.dll
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\bin\Debug\net7.0\final_work.pdb
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.csproj.AssemblyReference.cache
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.AssemblyInfoInputs.cache
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.AssemblyInfo.cs
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.csproj.CoreCompileInputs.cache
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.dll
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\refint\final_work.dll
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.pdb
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\final_work.genruntimeconfig.cache
+C:\Users\DProkopyev\OneDrive - Schlumberger\Desktop\Geek Brains\Specialization final work\final_work\obj\Debug\net7.0\ref\final_work.dll
